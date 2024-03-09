@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div>
+        <div id="post-background">
+
+            <textarea id="text-area" class="post-text" autofocus required>  </textarea>
+        </div>
+        <div id="items">
+            <ul>
+                <li>
+                    <select onchange="setEmoji()">
+                        <option value="👍">👍</option>
+                        <option value="❤️">❤️ </option>
+                        <option value="😂">😂 </option>
+                        <option value="😯">😯 </option>
+                        <option value="😢">😢 </option>
+                        <option value="😡">😡 </option>
+                    </select>
+                </li> <br>
+                <input type="color" onchange="changeColor()" name="" id="">
+                <li><input type="range" id="" onclick="changeFontSize()"></li>
+                <li class="font" onclick="changeStyle()">B</li>
+                <li class="font" onclick="changeStyle()">I</li>
+                <li class="font" onclick="changeStyle()">U</li>
+            </ul>
+            <ul>
+                <li><img onclick="setBackground()" src="./img/1.jpg" alt="" width="40px"></li>
+                <li><img onclick="setBackground()" src="./img/green-gradient-wavy-background_23-2149140692.avif" alt=""
+                        width="40px"></li>
+                <li><img onclick="setBackground()"
+                        src="./img/black-rough-concrete-wall-background-with-neon-lights-and-glowing-lights-lighting-effect-pink-purple-and-blue-on-empty-cement-wall-photo.jpg"
+                        alt="" width="40px"></li>
+                <li><img onclick="setBackground()"
+                        src="./img/ai-generated-grunge-detailed-texture-background-with-scratches-photo.jpg" alt=""
+                        width="40px"></li>
+                <li><img onclick="setBackground()" src="./img/0_FIVI3m9Fn829SzSX.jpg" alt="" width="40px"></li>
+                       <input type="color" onchange="backColor()"> 
+            </ul>
+        </div>
+    </div>
+
+    <button onclick="createPost()">Post</button>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
