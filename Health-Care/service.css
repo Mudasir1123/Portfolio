@@ -1,0 +1,63 @@
+body{
+    background-image: url(./pic/back\ ground.png);
+    background-repeat: no-repeat;
+    background-position-y: 70px;
+    background-size:1260px 500px ;
+}
+.write-4{
+    margin-top: 7rem;
+    margin-left: 5rem;
+}
+.write-5{
+width: 240px;
+margin-left: 5rem;
+}
+.find-2{
+    margin-top: 8rem;
+    margin-left: 5rem;
+    font-weight:bolder;  
+    font-size: larger;  
+    border-radius: 15px;
+    letter-spacing: 2px;
+    font-style: roboto;
+}
+.button-7{
+    margin-left: 5rem;
+    margin-top: 3rem;
+    width: 150px;
+    height: 60px;
+    font-weight: 600;
+ background: #007E85;
+ color: white;
+letter-spacing: 1.5px;
+border: 0;
+border-radius: 30px;
+}
+.button-8{
+    margin-left: 1rem;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    font-weight: 400;  
+    font-size: larger;  
+    border-radius: 15px;
+    letter-spacing: 2px;
+    border: 1px solid rgb(217, 128, 128);
+    font-style: roboto;
+    padding: .9rem;
+}
+.checked {
+    margin-top:1rem ;
+    color: orange;
+ }
+ .img-2{
+    margin-left: 2rem;
+ }
+ .service-4{
+    /* border: 2px solid red; */
+    color: #000000;
+    font-weight: 600;
+    font-size: x-large;
+}
+.vector{
+    margin-top: rem;
+}
