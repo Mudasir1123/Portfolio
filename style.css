@@ -194,8 +194,8 @@
 
 .services-1 {
     margin-top: 2rem;
-    width: 300px;
-    height: 250px;
+    width: 330px;
+    height: auto;
     border-radius: 49px;
     background: #878686;
     box-shadow: 5px 5px 0px #1b5564,
@@ -222,6 +222,7 @@
     margin-top: .5rem;
     display: flex;
     justify-content: center;
+    text-align: center;
     color: #5b04c5;
     font-size: 25px;
     font-weight: bold;
