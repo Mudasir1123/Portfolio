@@ -166,7 +166,7 @@
     width: 100%;
     height: auto;
     border-radius: 48px;
-    background: #82ed6d;
+    background: #ede66d;
     box-shadow: inset 5px 5px 10px #434d40,
         inset -5px -5px 10px #fffffe;
 }
@@ -444,67 +444,3 @@ font-family: "poppins";
 
 
 
-.contact-info {
-    text-align: center;
-    font-size: 1.2rem;
-    color: #555;
-    margin-bottom: 20px;
-}
-
-/* Contact Container */
-.w-1 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-/* Contact Icons */
-.pic-m1 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    max-width: 900px;
-    margin: auto;
-    padding: 20px;
-}
-
-/* Individual Contact Block */
-.contact {
-    background: white;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    text-align: center;
-    width: 140px;
-}
-
-.contact:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
-}
-
-/* Contact Icon Image */
-.contact img {
-    width: 60px;
-    height: auto;
-    margin-bottom: 10px;
-}
-
-/* Contact Platform Name */
-.con {
-    display: block;
-    font-size: 1rem;
-    font-weight: bold;
-    color: #333;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .pic-m1 {
-        flex-direction: column;
-        align-items: center;
-    }
-}
