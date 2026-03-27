@@ -1,0 +1,215 @@
+{
+  "name": "Muhammad Mudasir",
+  "title": "Full Stack Developer & AI Engineer",
+  "email": "mudasirhanif5438@gmail.com",
+  "phone": "+92 304 2278844",
+  "location": "Karachi, Pakistan",
+  "github": "https://github.com/Mudasir1123",
+  "linkedin": "https://linkedin.com/in/muhammad-mudasir-0b444024b/",
+  "summary": "Results-driven Full Stack Developer & AI Engineer with a strong expertise in building scalable, high-performance web applications and intelligent systems using modern technologies such as .NET Core, React, Next.js, Angular, and Python. Proven ability to design and develop end-to-end solutions that seamlessly combine robust backend architecture with visually compelling, user-centric frontend experiences.\n\nAward-winning innovator in AI competitions, recognized for delivering creative, impactful, and real-world solutions through advanced problem-solving and technical excellence. Experienced in integrating AI/ML capabilities into applications to enhance automation, performance, and user engagement.\n\nPassionate about continuous learning, clean code, and cutting-edge technologies, with a strong commitment to creating future-ready digital products that solve complex problems and drive meaningful results in dynamic, fast-paced environments.",
+  "experience": [
+    {
+      "role": "Freelance Full Stack Developer",
+      "company": "Self-Employed",
+      "duration": "2023 - Present",
+      "description": "Designed and developed responsive, user-centric web applications using modern frameworks including React, .NET Core, and Laravel. Integrated AI/ML capabilities using TensorFlow and PyTorch for enhanced functionality. Managed end-to-end project lifecycle from requirement analysis to deployment.",
+      "technologies": ["React", ".NET Core", "Laravel", "TensorFlow", "PyTorch", "MySQL"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Advanced Diploma in Software Engineering",
+      "institution": "Aptech Computer Education, Karachi",
+      "year": "In Progress",
+      "details": "Focus on Full Stack Development. Technologies: .NET Core, Angular, SQL Server, Cloud Computing."
+    },
+    {
+      "degree": "M.Sc. Environmental Studies",
+      "institution": "Federal Urdu University, Karachi",
+      "year": "Completed",
+      "details": "Master of Science."
+    },
+    {
+      "degree": "B.Sc. Environmental Studies",
+      "institution": "University of Karachi",
+      "year": "Completed",
+      "details": "Bachelor of Science."
+    }
+  ],
+  "skills": {
+    "frontend": ["React.js", "Next.js", "Angular CLI", "TypeScript", "JavaScript (ES6+)", "Tailwind CSS", "Bootstrap", "Flutter", "Dart", "jQuery", "UI/UX Design", "Figma", "Adobe XD"],
+    "backend": [".NET Core", "ASP.NET MVC", "C#", "Python", "Node.js", "FastAPI", "PHP", "Laravel", "Express.js", "RESTful APIs", "Swagger"],
+    "3d": ["Generative AI", "Machine Learning", "TensorFlow", "PyTorch", "Scikit-learn", "NumPy", "Pandas", "Data Analysis", "Streamlit", "Chainlit"],
+    "tools": ["Git", "GitHub", "Vercel", "Docker", "DevOps", "WordPress", "CMS", "Adobe Premiere Pro", "MS Office"]
+  },
+  "projects": [
+    {
+      "name": "Inceptrax",
+      "description": "A modern and highly interactive business portfolio built with React.js, featuring sleek animations and a responsive design.",
+      "technologies": ["React.js", "JavaScript", "Tailwind CSS", "Framer Motion"],
+      "image": "/Img/Inceptrax.png",
+      "link": "https://inceptrax-v2.vercel.app/"
+    },
+    {
+      "name": "HTechNews",
+      "description": "A dynamic technology news and insights platform delivering the latest updates from the tech world.",
+      "technologies": ["Laravel", "PHP", "MySQL", "Tailwind CSS"],
+      "image": "/Img/Htechnews.png",
+      "link": "https://htechnews.com/"
+    },
+    {
+      "name": "Al Ghani City",
+      "description": "A sophisticated real estate management platform built with Laravel, designed for modern property listing and client management.",
+      "technologies": ["Laravel", "PHP", "MySQL", "Tailwind CSS"],
+      "image": "/Img/Al ghani city.png",
+      "link": "https://alkareemrs.com/"
+    },
+    {
+      "name": "Thaheem Brothers",
+      "description": "A comprehensive business solution platform built with Laravel and Next.js for maximum performance and scalability.",
+      "technologies": ["Laravel", "Next.js", "PHP", "Tailwind CSS"],
+      "image": "/Img/Thaheem Brothers.png",
+      "link": "https://thaheembrothers.com/"
+    },
+    {
+      "name": "Runway Loft",
+      "description": "A premium fashion and lifestyle eCommerce platform providing a seamless shopping experience.",
+      "technologies": ["Laravel", "PHP", "MySQL", "Tailwind CSS"],
+      "image": "/Img/RunwayLoft.png",
+      "link": "https://runwayloft.com/"
+    },
+    {
+      "name": "Plant Places",
+      "description": "A responsive frontend web project focused on nature and plant discovery.",
+      "technologies": ["HTML", "CSS", "JS"],
+      "image": "/Img/p;ant.PNG",
+      "link": "https://mudasir1123.github.io/Place-Plants/"
+    },
+    {
+      "name": "Electronic Items",
+      "description": "A frontend e-commerce layout for electronic goods.",
+      "technologies": ["HTML", "CSS", "JS"],
+      "image": "/Img/Screenshot (98).png",
+      "link": "https://mudasir1123.github.io/Electronic-Items/"
+    },
+    {
+      "name": "Garden World",
+      "description": "A beautifully designed gardening and landscaping showcase website.",
+      "technologies": ["HTML", "CSS", "JS"],
+      "image": "/Img/Garden.PNG",
+      "link": "https://mudasir1123.github.io/Garden_World/"
+    },
+    {
+      "name": "Data Sweeper",
+      "description": "A powerful data processing tool integrating AI capabilities.",
+      "technologies": ["Streamlit", "Python"],
+      "image": "/Img/Data.PNG",
+      "link": "https://dataconvertcsvandexcel.streamlit.app/"
+    },
+    {
+      "name": "Daily Well-Being Tracker",
+      "description": "A tool to monitor and track daily wellness and health metrics.",
+      "technologies": ["Streamlit", "Python"],
+      "image": "/Img/Daily.PNG",
+      "link": "https://sprinttracker.streamlit.app/"
+    },
+    {
+      "name": "AI Password & Chatbot",
+      "description": "An intelligent password generator mixed with interactive chatbot support features.",
+      "technologies": ["Streamlit", "Python"],
+      "image": "/Img/password.PNG",
+      "link": "https://generatepassword.streamlit.app/"
+    },
+    {
+      "name": "AI Unit Converter",
+      "description": "An advanced unit converter supporting a multitude of formats.",
+      "technologies": ["Streamlit", "Python"],
+      "image": "/Img/Unit.PNG",
+      "link": "https://unitconvertorpy.streamlit.app/"
+    },
+    {
+      "name": "Countdown Timer",
+      "description": "An intuitive timer and countdown utility application.",
+      "technologies": ["Streamlit", "Python"],
+      "image": "/Img/timer.PNG",
+      "link": "https://countdowntimers.streamlit.app/"
+    },
+    {
+      "name": "Library Manager",
+      "description": "A book cataloging and library management dashboard.",
+      "technologies": ["Streamlit", "Python"],
+      "image": "/Img/library.PNG",
+      "link": "https://librarymanagers.streamlit.app/"
+    },
+    {
+      "name": "Connect Four",
+      "description": "A classic Connect Four game executed in Python via Streamlit.",
+      "technologies": ["Streamlit", "Python"],
+      "image": "/Img/connect.PNG",
+      "link": "https://connectfourai.streamlit.app/"
+    },
+    {
+      "name": "Markov Chains",
+      "description": "An interactive mathematical modeling tool illustrating Markov transitions.",
+      "technologies": ["Streamlit", "Python"],
+      "image": "/Img/Markov.PNG",
+      "link": "https://graphcomposer.streamlit.app/"
+    },
+    {
+      "name": "Health Care",
+      "description": "A clinic or hospital static branding site.",
+      "technologies": ["HTML", "CSS"],
+      "image": "/Img/Screenshot (62).png",
+      "link": "https://mudasir1123.github.io/Health-care/"
+    },
+    {
+      "name": "Hart Homes",
+      "description": "A sleek, responsive real-estate layout.",
+      "technologies": ["HTML", "CSS"],
+      "image": "/Img/Screenshot (61).png",
+      "link": "https://mudasir1123.github.io/hart-homes/"
+    },
+    {
+      "name": "Calculator",
+      "description": "A functional browser-based calculator layout.",
+      "technologies": ["HTML", "CSS", "JS"],
+      "image": "/Img/Screenshot (63).png",
+      "link": "https://mudasir1123.github.io/calculator/"
+    },
+    {
+      "name": "Moto GP",
+      "description": "A Moto GP fan page showcasing teams and riders.",
+      "technologies": ["HTML"],
+      "image": "/Img/17-_8504596_.jpg",
+      "link": "https://mudasir1123.github.io/Moto-GP/"
+    },
+    {
+      "name": "Clock Widget",
+      "description": "A modern analog clock rendering in the browser.",
+      "technologies": ["HTML", "CSS", "JS"],
+      "image": "/Img/Screenshot (102).png",
+      "link": "https://mudasir1123.github.io/Clock/"
+    },
+    {
+      "name": "Digital Clock",
+      "description": "A sleek digital clock web component.",
+      "technologies": ["HTML", "CSS", "JS"],
+      "image": "/Img/Screenshot (103).png",
+      "link": "https://mudasir1123.github.io/Digital-Clock/"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "1st Runner-Up - Global TechWiz Competition (Generative AI)",
+      "year": "2026"
+    },
+    {
+      "title": "Winner - AI Innovation Competition (Generative AI)",
+      "year": "2025"
+    },
+    {
+      "title": "1st Runner-Up - Frontend Developer Competition",
+      "year": "2024"
+    }
+  ]
+}
